@@ -3,9 +3,6 @@
 <div align="center">
 
 
-
-**Backend Developer | AI + Web Service Enthusiast**
-
 ---
 
 ## 🛠 Tech Stack
